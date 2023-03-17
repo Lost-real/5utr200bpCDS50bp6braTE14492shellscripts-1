@@ -1,0 +1,6 @@
+>gene1
+accgaag-c
+>gene2
+a-cgaacga
+>gene3
+a-cgaagaa
